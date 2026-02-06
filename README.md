@@ -1,5 +1,3 @@
-# odin-recipes
-
 ## My personal feeling about this project:
 
 YES! Thank GOD! Officially, I completed my first ever project from the foundation course of TOP (The Odin Project). It’s such a great feeling doing something by yourself, even if it’s something small or simple. I hope it continues like this for the rest of the course (lol, I’m sure it won’t!). This project was simple. Something that I would say I can do in my sleep. But still, there were times when I got a little bit confused. Like, what to do? Is there any better way to do this thing? Overall, I felt happy doing this project and not sad and frustrated (it wasn’t hard).
@@ -28,8 +26,4 @@ For all the images used in this project:
 
 - [Bbq Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/bbq)  
 - [Biryani Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/biryani)  
-<<<<<<< HEAD
 - [Accompaniment Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/accompaniment)
-=======
-- [Accompaniment Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/accompaniment)
->>>>>>> 0908c1dc8c220f8323afbee190ee2089fb7200f3
