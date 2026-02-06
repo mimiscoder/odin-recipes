@@ -28,4 +28,8 @@ For all the images used in this project:
 
 - [Bbq Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/bbq)  
 - [Biryani Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/biryani)  
+<<<<<<< HEAD
 - [Accompaniment Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/accompaniment)
+=======
+- [Accompaniment Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/accompaniment)
+>>>>>>> 0908c1dc8c220f8323afbee190ee2089fb7200f3
