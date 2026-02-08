@@ -4,10 +4,44 @@
     box-sizing: border-box;
 }
 
-body{
-    background-color: #ededed;
+body {
+    background-color: #e6eae7;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
+    background: #003a37;
+}
+
+h1 {
+    color: #bfdbdd;
+}
+
+.header {
+    padding: 20px;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.navbar{
+    text-align: right;
+}
+
+.navbar-wrapper {
+    width: 773px;
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 10px;
+    color: #e6eae7;
 }
 
 
