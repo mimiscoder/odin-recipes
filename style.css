@@ -46,11 +46,7 @@ body {
     margin-left: 30px;
 }
 
-/* Hero Section */
-
-.hero-section{
-    
-}
+/* Hero Section For The HomePage */
 
 .hero-text {
     display: inline-block;
@@ -78,10 +74,41 @@ body {
     text-align: right;
 }
 
-.hero-img img{
+.hero-img img {
     width: 100%;
     height: auto;
 }
+
+/* Styles for the chicken biryani page */
+
+.img-section {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.desc-section {
+    display: inline-block;
+    width: 29%;
+    height: 79.5vh;;
+    background-color: #d6c4b0;
+    padding: 10px 20px;
+    margin-left: -4px;
+}
+
+.desc-section h2,
+.desc-section p {
+    margin: 10px 0;
+    
+}
+
+.desc-section h2 {
+    font-size: 26px;
+}
+
+.desc-section p {
+    text-align: justify;
+}
+
 
 
 
