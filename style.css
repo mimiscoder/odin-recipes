@@ -5,22 +5,20 @@
 }
 
 body {
-    background-color: #e6eae7;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
-    background: #003a37;
-}
-
-h1 {
-    color: #bfdbdd;
+    background-color: #ede6df;
+    color: #091d26;
 }
 
 .header {
-    padding: 20px;
+    background: #fafafa ;
+    padding: 30px 90px;
 }
 
 .logo {
     display: inline-block;
+    width: 50%;
 }
 
 .navbar{
@@ -28,20 +26,61 @@ h1 {
 }
 
 .navbar-wrapper {
-    width: 773px;
+    width: 49.66%;
     display: inline-block;
 }
 
-li {
+.navbar ul {
+    margin-bottom: 5px;
+}
+
+.navbar ul li {
     display: inline-block;
     list-style: none;
 }
 
-a {
+.navbar ul li a {
     display: inline-block;
     text-decoration: none;
-    margin-left: 10px;
-    color: #e6eae7;
+    color: inherit;
+    margin-left: 30px;
+}
+
+/* Hero Section */
+
+.hero-section{
+    
+}
+
+.hero-text {
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+    text-align: left;
+    padding-left: 90px;
+}
+
+.hero-text h2 {
+    font-size: 64px;
+    margin-top: 140px;
+    
+}
+
+.hero-text p {
+    font-size: 18px;
+    margin-top: 12px;
+    
+}
+
+.hero-img {
+    display: inline-block;
+    width: 49%;
+    text-align: right;
+}
+
+.hero-img img{
+    width: 100%;
+    height: auto;
 }
 
 
