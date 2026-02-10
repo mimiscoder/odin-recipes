@@ -12,6 +12,10 @@ body {
     color: #091d26;
 }
 
+.highlight {
+    color: #094044;
+}
+
 .not-overflow {
     overflow: hidden;
 }
@@ -64,7 +68,7 @@ body {
 
 .hero-text h2 {
     font-size: 64px;
-    margin-top: 140px;
+    margin-top: 110px;
     
 }
 
