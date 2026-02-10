@@ -109,8 +109,41 @@ body {
     text-align: justify;
 }
 
+.ingredients {
+    display: inline-block;
+    box-sizing: content-box;
+    width: 20%;
+    margin-left: 90px;
+    margin-top: 32px;
+    border-right: 2px groove #d6c4b0;
+    padding-right: 20px;
+    vertical-align: top;
+}
 
+.ingredients h2,
+.steps-container h2 {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
 
+.ingredients ul,
+.steps-container ol {
+    margin-left: 30px;
+}
 
+.ingredients li,
+.steps-container li {
+    line-height: 24px;
+}
 
+.ingred-h2 {
+    margin-top: 16px;
+}
+
+.steps-container {
+    display: inline-block;
+    width: 44%;
+    margin-top: 32px;
+    margin-left: 50px;
+}
 
