@@ -4,7 +4,7 @@
 
 YES! Thank GOD! Officially, I completed my first ever project from the foundation course of TOP (The Odin Project). It’s such a great feeling doing something by yourself, even if it’s something small or simple. I hope it continues like this for the rest of the course (lol, I’m sure it won’t!). This project was simple. Something that I would say I can do in my sleep. But still, there were times when I got a little bit confused. Like, what to do? Is there any better way to do this thing? Overall, I felt happy doing this project and not sad and frustrated (it wasn’t hard).
 
-YEP! I used div, and I used CSS to make my website look beautiful. I used `display: inline-block` for the layout of all my web pages. It was a nightmare (like the one that you can't get out of easily, lol). But, after doing some research and understanding the core of this type of display. After this, I was able to do things much more easily. That's pretty much it for now.
+YEP! I used div, and I used CSS to make my website look beautiful. I used `display: inline-block` for the layout of all my web pages. It was a nightmare (like the one that you can't get out of easily, lol). But, after doing some research and understanding the core of this type of display, I was able to do things much more easily. That's pretty much it for now.
 
 ## Project Description:
 
