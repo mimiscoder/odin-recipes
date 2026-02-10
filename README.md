@@ -12,12 +12,13 @@ Let’s get serious. Shall we? Okay, this project is a simple multi-page HTML we
 
 YES! I used CSS to style all the web pages. I used `display:inline-block` for most of the layout of my web pages. I made different sections and subsections with the help of `div` and used CSS to make them look good. I made a cool navigation bar (menu) for all the web pages and a section that contains two other subsections for the image of the food and its description. Also, I write the code for another section that contains both ingredients and steps for cooking that dish. Finally, I made a footer for all the webpages except the homepage.
 
-## The problem I faced:
+## The problem and challanges I faced:
 
 The problem that I faced was, can I use heading text (`<h1>-<h6>`) tags inside `<ul>` or `<ol>` tags? After doing some research and asking for help in the TOP Discord community, the answer I got was that it doesn’t make sense to have some other tags inside `<ol>` or `<ul>` tags except `<li>` tags. And it’s also confirmed by the W3C HTML Validator. 
 There were some solutions for this problem:
 1. You can have your heading text outside your `<ul>` or `<ol>` tags, but semantically, it doesn’t make sense. Because the screen reader won’t be able to understand and associate the heading text as the caption or title for `<ul>` or `<ol>` tags.
 2. There was a CSS solution that made much more sense, but as this project only required you to use HTML. I didn’t use that solution for it (I don’t think I need to discuss it here).
+3. `display: inline-block` is challanging, if you don't know what you are doing. I know it's not a propery that should be used for making layouts(But, I like challanges so I did it. YEAH!).
 
 ## What I learned:
 
