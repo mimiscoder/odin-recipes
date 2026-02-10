@@ -4,9 +4,13 @@
 
 YES! Thank GOD! Officially, I completed my first ever project from the foundation course of TOP (The Odin Project). It’s such a great feeling doing something by yourself, even if it’s something small or simple. I hope it continues like this for the rest of the course (lol, I’m sure it won’t!). This project was simple. Something that I would say I can do in my sleep. But still, there were times when I got a little bit confused. Like, what to do? Is there any better way to do this thing? Overall, I felt happy doing this project and not sad and frustrated (it wasn’t hard).
 
+YEP! I used div, and I used CSS to make my website look beautiful. I used `display: inline-block` for the layout of all my web pages. It was a nightmare (like the one that you can't get out of easily, lol). But, after doing some research and understanding the core of this type of display. After this, I was able to do things much more easily. That's pretty much it for now.
+
 ## Project Description:
 
 Let’s get serious. Shall we? Okay, this project is a simple multi-page HTML website designed to help users explore different food recipes. This website will allow users to look up the ingredients and steps on how to cook that dish on each of its own dedicated web pages (currently, it has only 3 recipes to explore). We have four web pages. The first one is the homepage, which contains a heading text(`<h1>`) and three links. These links can redirect you to web pages that contain the recipe for that individual dish. Each recipe page has a heading text, an image of the dish, a description of the recipe, ingredients, steps, and a link that will take you to the homepage.
+
+YES! I used CSS to style all the web pages. I used `display:inline-block` for most of the layout of my web pages. I made different sections and subsections with the help of `div` and used CSS to make them look good. I made a cool navigation bar (menu) for all the web pages and a section that contains two other subsections for the image of the food and its description. Also, I write the code for another section that contains both ingredients and steps for cooking that dish. Finally, I made a footer for all the webpages except the homepage.
 
 ## The problem I faced:
 
