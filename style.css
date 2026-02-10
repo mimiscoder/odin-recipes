@@ -7,8 +7,13 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
-    background-color: #ede6df;
+    /* background-color: #ede6df; */
+    background-color: #fff;
     color: #091d26;
+}
+
+.not-overflow {
+    overflow: hidden;
 }
 
 .header {
@@ -50,10 +55,11 @@ body {
 
 .hero-text {
     display: inline-block;
-    width: 50%;
-    vertical-align: top;
+    width: 33%;
     text-align: left;
+    vertical-align: top;
     padding-left: 90px;
+    margin-top: 100px;
 }
 
 .hero-text h2 {
@@ -70,16 +76,21 @@ body {
 
 .hero-img {
     display: inline-block;
-    width: 49%;
-    text-align: right;
+    width: 66%;
 }
 
 .hero-img img {
     width: 100%;
     height: auto;
+    margin-left: 120px;
 }
 
 /* Styles for the chicken biryani page */
+
+.desc-img {
+    width: 100%;
+    height: 79.3vh;
+}
 
 .img-section {
     display: inline-block;
@@ -89,9 +100,9 @@ body {
 .desc-section {
     display: inline-block;
     width: 29%;
-    height: 79.5vh;;
+    height: 100%;
     background-color: #d6c4b0;
-    padding: 10px 20px;
+    padding: 36px;
     margin-left: -4px;
 }
 
@@ -133,7 +144,8 @@ body {
 
 .ingredients li,
 .steps-container li {
-    line-height: 24px;
+    line-height: 26px;
+
 }
 
 .ingred-h2 {
@@ -146,4 +158,20 @@ body {
     margin-top: 32px;
     margin-left: 50px;
 }
+
+.footer {
+    height: 70px;
+    text-align: center;
+    background-color: #ccc;
+    font-size: 20px;
+    line-height: 70px;
+    border: 1px solid #d6c4b0;
+    margin-top: 20px;
+}
+
+
+
+
+
+
 
