@@ -33,5 +33,5 @@ Credit for the images in this project go to:
 - [Bbq Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/bbq)  
 - [Biryani Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/biryani)  
 - [Accompaniment Stock photos by Vecteezy](https://www.vecteezy.com/free-photos/accompaniment)
-- Photo by [charlesdeluvio](https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [(Unsplash)](https://unsplash.com/photos/three-white-dimsum-on-brown-bowl-D-vDQMTfAAU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- Photo by [charlesdeluvio](https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/three-white-dimsum-on-brown-bowl-D-vDQMTfAAU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
       
