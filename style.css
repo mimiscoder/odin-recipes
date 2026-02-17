@@ -93,21 +93,26 @@ body {
 
 .desc-img {
     width: 100%;
-    height: 79.3vh;
+    height: 92.3vh;
 }
 
 .img-section {
     display: inline-block;
     vertical-align: top;
+    width: 71%;
+}
+
+.img-section img {
+    width: 100%;
 }
 
 .desc-section {
     display: inline-block;
-    width: 29%;
+    width: 28.8%;
     height: 100%;
     background-color: #d6c4b0;
     padding: 36px;
-    margin-left: -4px;
+    margin-left: -5px;
 }
 
 .desc-section h2,
